@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on tooling projects
 - 💬 Ask me about solidity
-- ⚡ Fun fact: I love Conan 🕵️‍♂️
+- ⚡ Fun fact: I actually use a Conan figurine for debugging purposes 🕵️‍♂️
