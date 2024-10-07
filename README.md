@@ -1,4 +1,4 @@
-0xjarix, smart contract "reviewer".
+0xjarix, web3 security researcher
 
 - 🔭 I’m currently working on smart contract dev & audit
 - 🌱 I’m currently learning Cairo
